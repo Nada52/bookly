@@ -44,7 +44,7 @@ class BestSellerListViewItem extends StatelessWidget {
                       maxLines: 2,
                       overflow: TextOverflow.ellipsis,
                       style: Styles.textStyle20.copyWith(
-                        fontFamily: kJtSectraFine,
+                        fontFamily: kGtSectraFine,
                       ),
                     ),
                   ),
